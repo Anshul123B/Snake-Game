@@ -1,5 +1,4 @@
  <h1>Snake Game</h1>
-  <p>Snake Game Demo</p>
 
   <p>This is a classic Snake Game implemented using HTML, CSS, and JavaScript. The game allows players to control a snake that grows in length as it consumes food items. The objective is to achieve the highest possible score without colliding with the walls or the snake's own body.</p>
 
