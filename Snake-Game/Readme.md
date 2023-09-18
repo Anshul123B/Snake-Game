@@ -33,7 +33,7 @@
   <p>Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.</p>
 
   <h2>Credits</h2>
-  <p>This Snake Game was created by Anshul Bhatt.</p>
+  <p>This Snake Game is created by Anshul Bhatt.</p>
   <p>GitHub: <a href="https://github.com/Anshul123B">Anshul123B</a></p>
   <p>The game logic and structure were inspired by various online tutorials and resources.</p>
 
