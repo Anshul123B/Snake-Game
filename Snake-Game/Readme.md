@@ -1,4 +1,4 @@
- <h1>Snake Game</h1>
+ <h1>Snake-Game</h1>
 
   <p>This is a classic Snake Game implemented using HTML, CSS, and JavaScript. The game allows players to control a snake that grows in length as it consumes food items. The objective is to achieve the highest possible score without colliding with the walls or the snake's own body.</p>
 
@@ -40,5 +40,5 @@
   <h2>License</h2>
   <p>This project is licensed under the MIT License.</p>
 
-  <p>Have fun playing the Snake Game! If you encounter any problems or have questions, please don't hesitate to contact or open an issue. enjoy !</p>
+  <p>Have fun playing the Snake Game! If you encounter any problems or have questions, please don't hesitate to contact or open an issue. enjoy!</p>
   
