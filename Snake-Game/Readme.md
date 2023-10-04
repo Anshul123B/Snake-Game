@@ -40,5 +40,5 @@
   <h2>License</h2>
   <p>This project is licensed under the MIT License.</p>
 
-  <p>Have fun playing the Snake Game! If you encounter any problems or have questions, please don't hesitate to contact or open an issue.</p>
+  <p>Have fun playing the Snake Game! If you encounter any problems or have questions, please don't hesitate to contact or open an issue.ieyrihfilgndsfklngkdkfng;fhnkfnjklcvnj</p>
   
