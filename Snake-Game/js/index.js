@@ -96,11 +96,7 @@ function gameEngine(){
     foodElement.style.gridColumnStart = food.x;
     foodElement.classList.add('food')
     board.appendChild(foodElement);
-
-
 }
-
-
 // Game logic
 musicSound.play();
 let hiscore = localStorage.getItem("hiscore");
