@@ -97,7 +97,7 @@ function gameEngine(){
     foodElement.classList.add('food')
     board.appendChild(foodElement);
 }
-//logic for working the Game 
+//Game working logic
 musicSound.play();
 let hiscore = localStorage.getItem("hiscore");
 if(hiscore === null){
