@@ -35,8 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to fork and modify this project to create your own version of the Snake game!
 
 Enjoy the game!
-
-
-bbbbhhjjhhshsh
-
-
